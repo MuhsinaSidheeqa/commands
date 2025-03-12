@@ -1,0 +1,11 @@
+>git init
+
+>git status
+
+>git add -add
+
+>git commit -m "commit message"
+
+>git remote add name remote_path
+
+>git remote -v
